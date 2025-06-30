@@ -1,5 +1,5 @@
 # widemobius
-Project to study the topology of mobius strips using the [pymembrane]([https://github.com/fdmatoz/PyMembrane]) python package.
+Project to study the topology of mobius strips using the [pymembrane](https://github.com/fdmatoz/PyMembrane) package.
 
 O objetivo deste projeto é entender o papel da topologia nas formas assumidas por uma fita de Möbius elástica cuja razão largura/comprimento é da ordem de unidade ou menos. Este projeto será realizado em colaboração com a Profa. Elizane Moraes e o aluno do PPGFIS Caio Rauh. Primeiro, exploraremos experimentalmente as diferentes formas de equilíbrio da fita de Möbius usando a espessura e a razão comprimento/largura como parâmetros. Paralelamente, códigos existentes (análise de elementos finitos, dinâmica molecular, etc.) serão adaptados para simular as configurações de equilíbrio. Em seguida, caracterizaremos as configurações obtidas calculando as escalas de comprimento emergentes, os mapas de densidade de energia elástica, os mapas de curvatura gaussiana e média. À luz dessas análises, tentaremos desenvolver um modelo mecânico elasto-geométrico para entender o surgimento de configurações complexas neste sistema. Os resultados obtidos darão origem a uma publicação internacional com comitê de revisão.
 
